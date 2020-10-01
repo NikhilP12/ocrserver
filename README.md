@@ -64,3 +64,4 @@ cf. [gosseract](https://github.com/otiai10/gosseract)
 # Documents
 
 - [API Endpoints](https://github.com/otiai10/ocrserver/wiki/API-Endpoints)
+## this project is depreciated to python 2.7.0
